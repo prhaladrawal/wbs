@@ -1,0 +1,122 @@
+body{
+    color: #fff;
+      overflow-x: hidden;
+}
+
+#title h1{
+  font-size: 3rem;
+  text-align: left;
+  padding-top: 4%;
+  padding-left: 4%;
+  padding-bottom:200px;
+}
+.buttons{
+  text-align: center;
+  padding:40px;
+}
+
+#title h2{
+  text-align: right;
+  padding-right: 76px;
+  padding-bottom: 5%;
+  margin-bottom: 0;
+}
+#title .nav-item{
+  margin:3px;
+  font-size: 1.2rem;
+}
+#title .collapse{
+  padding: 1%;
+}
+#title .navbar-nav{
+  padding-right: 47px;
+}
+#title .navbar-brand{
+  padding-left: 3%;
+}
+.first-page{
+  background-color:#2E343F;
+
+}
+
+.images{
+  padding-top: 50px;
+  max-width: 200px;
+  height: auto;
+}
+.crd{
+  text-align: center;
+
+}
+.crd h2{
+  padding:50px 5%;
+  font-size: 1.2rem;
+
+}
+#features{
+  background-color:#312e3f;
+}
+
+#explaination{
+  background-color: #2e3c3f;
+}
+.vdo{
+  padding: 5% 3%;
+}
+.txt{
+  padding: 5% 2%;
+}
+#goals{
+    background-color:#2E343F;
+    text-align:center;
+}
+.c-img{
+  max-width: 40%;
+  max-height: 40%;
+}
+.c-i{
+  text-align: center;
+  padding: 35px 0;
+}
+#goals h1{
+  padding: 20px;
+}
+#team{
+    background-color:#312e3f;
+    text-align: center;
+    padding: 5px;
+}
+.team-pic{
+  padding: 10px;
+border-radius: 50%;
+max-width: 100px;
+height: 100px;
+}
+#team h2{
+  font-size: 0.9rem;
+  color: #8f8f8f;
+}
+
+.member{
+  padding:3% 2%;
+}
+#team h1{
+  padding: 6px 0;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.npl{
+  margin-top: 15px;
+}
+#contact{
+  text-align: center;
+    background-color: #2e3c3f;
+    padding: 40px 0 25px;
+}
+#contact p{
+  padding: 40px 0 0;
+  color: #8f8f8f;
+  font-size: 0.8rem;
+}
+#contact i{
+  padding: 5px;
+}
